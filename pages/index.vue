@@ -6,16 +6,14 @@
         codalac-app
       </h1>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
+        <nuxt-link to="/playground"
+          ><a class="button--grey">
+            Playground
+          </a></nuxt-link
         >
-          Documentation
-        </a>
+
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/alexkasongo/codalac-app"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
