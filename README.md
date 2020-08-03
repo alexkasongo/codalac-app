@@ -1,4 +1,8 @@
-# codalac-app
+# Codalac Labs
+
+## Overview
+
+Codalac is a supportive community for African coding enthusiasts with any level of programming experience to grow as technologists and meet other African developers. We center our events around JavaScript and other technologies within the Vue.js ecosystem.
 
 ## Build Setup
 
@@ -16,5 +20,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
